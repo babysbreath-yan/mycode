@@ -1,0 +1,160 @@
+# depslib dependency file v1.0
+1593918267 source:e:\project\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1594373479 e:\project\tetris\game.h
+	<stdio.h>
+	<time.h>
+
+1593915516 source:e:\project\tetris\mywindows.c
+	"mywindows.h"
+
+1593912219 e:\project\tetris\mywindows.h
+	<windows.h>
+
+1594379470 source:e:\project\tetris\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1593940023 e:\project\tetris\data.h
+
+1594382220 source:c:\users\wangh\desktop\20191611217+任雨晴\20191611217+任雨晴\tetris\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594373480 c:\users\wangh\desktop\20191611217+任雨晴\20191611217+任雨晴\tetris\game.h
+	<stdio.h>
+	<time.h>
+
+1593940024 c:\users\wangh\desktop\20191611217+任雨晴\20191611217+任雨晴\tetris\data.h
+
+1593912220 c:\users\wangh\desktop\20191611217+任雨晴\20191611217+任雨晴\tetris\mywindows.h
+	<windows.h>
+
+1593918268 source:c:\users\wangh\desktop\20191611217+任雨晴\20191611217+任雨晴\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1593915518 source:c:\users\wangh\desktop\20191611217+任雨晴\20191611217+任雨晴\tetris\mywindows.c
+	"mywindows.h"
+
+1594382220 source:c:\users\wangh\desktop\2014班+20201612329+范家志\2014班+20201612329+范家志\tetris\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594373480 c:\users\wangh\desktop\2014班+20201612329+范家志\2014班+20201612329+范家志\tetris\game.h
+	<stdio.h>
+	<time.h>
+
+1593940024 c:\users\wangh\desktop\2014班+20201612329+范家志\2014班+20201612329+范家志\tetris\data.h
+
+1593912220 c:\users\wangh\desktop\2014班+20201612329+范家志\2014班+20201612329+范家志\tetris\mywindows.h
+	<windows.h>
+
+1593918268 source:c:\users\wangh\desktop\2014班+20201612329+范家志\2014班+20201612329+范家志\tetris\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1593915518 source:c:\users\wangh\desktop\2014班+20201612329+范家志\2014班+20201612329+范家志\tetris\mywindows.c
+	"mywindows.h"
+
+1611555630 source:c:\users\wangh\desktop\代码\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594373480 c:\users\wangh\desktop\代码\game.h
+	<stdio.h>
+	<time.h>
+
+1611552733 c:\users\wangh\desktop\代码\data.h
+
+1593912220 c:\users\wangh\desktop\代码\mywindows.h
+	<windows.h>
+
+1593918268 source:c:\users\wangh\desktop\代码\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1593915518 source:c:\users\wangh\desktop\代码\mywindows.c
+	"mywindows.h"
+
+1611555632 source:c:\users\wangh\desktop\2014+20201612329+范家志\2014+20201612329+范家志\代码\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594373480 c:\users\wangh\desktop\2014+20201612329+范家志\2014+20201612329+范家志\代码\game.h
+	<stdio.h>
+	<time.h>
+
+1611552734 c:\users\wangh\desktop\2014+20201612329+范家志\2014+20201612329+范家志\代码\data.h
+
+1593912220 c:\users\wangh\desktop\2014+20201612329+范家志\2014+20201612329+范家志\代码\mywindows.h
+	<windows.h>
+
+1593918268 source:c:\users\wangh\desktop\2014+20201612329+范家志\2014+20201612329+范家志\代码\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1593915518 source:c:\users\wangh\desktop\2014+20201612329+范家志\2014+20201612329+范家志\代码\mywindows.c
+	"mywindows.h"
+
+1611555632 source:c:\users\wangh\desktop\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\game.c
+	"game.h"
+	"data.h"
+	"mywindows.h"
+	<conio.h>
+	<mmsystem.h>
+
+1594373480 c:\users\wangh\desktop\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\game.h
+	<stdio.h>
+	<time.h>
+
+1611552734 c:\users\wangh\desktop\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\data.h
+
+1593912220 c:\users\wangh\desktop\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\mywindows.h
+	<windows.h>
+
+1593918268 source:c:\users\wangh\desktop\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1593915518 source:c:\users\wangh\desktop\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\mywindows.c
+	"mywindows.h"
+
+1593918268 source:c:\users\wangh\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1594373480 c:\users\wangh\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\game.h
+	<stdio.h>
+	<time.h>
+
+1593915518 source:c:\users\wangh\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\mywindows.c
+	"mywindows.h"
+
+1593912220 c:\users\wangh\实训\大一上实训(俄罗斯方块)\2014+20201612329+范家志\代码\mywindows.h
+	<windows.h>
+
