@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.left{
+    width: 20%;
+    height: 830px;
+    background-color:darkslategray;
+    float: left;
+}
+.rit{
+    width: 80%;
+    height: 830px;
+    background-color: skyblue;
+    float: left;
+}
+.left div{
+    width: 60%;
+    margin:100px auto;
+}
+.left div ul{
+    width: 100%;
+}
+.left div ul li{
+    width: 100%;
+    list-style: none;/*去掉圆点*/
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 50px;
+}
+.left div ul li:hover{
+    color: red;
+}
+.left div ul li:hover ul{
+    display: block;/*显示*/
+}
+.left div ul li ul{
+    display: none;/*隐藏*/
+    margin-left: 80px;
+}
+.left div ul li ul li a{
+    display:block;/*以块级元素显示*/
+    width: 100%;
+    text-decoration: none;
+    color: white;
+}
+.left div ul li ul li a:hover{
+    color: white;
+    background-color: coral;
+}
+iframe{
+    width: 100%;
+    height: 830px;
+    border: 0px;
+}
