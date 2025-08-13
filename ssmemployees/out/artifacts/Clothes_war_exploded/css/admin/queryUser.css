@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    width: 100%;
+    height: 200px;
+    background-color: beige;
+}
+.main{
+    width: 100%;
+    height: 600px;
+}
+.main ul{
+    width: 100%;
+
+}
+.main ul li{
+    list-style: none;
+    float: left;
+    font-weight: 600;
+    width: 180px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    background-color: cornclothesblue;
+    border: 2px solid silver;
+    text-align: center;
+}
+.main ol li{
+    width: 180px;
+    height: 50px;
+    line-height: 50px;
+    border: 2px solid lightgray;
+    text-align: center;
+    float: left;
+    list-style: none;
+    font-size: 18px;
+    color: gray;
+}
